@@ -1,7 +1,3 @@
-# EJERCICIOS-JS
-EJERCICIOS
-
-
 //Juan Manuel Gonzalez Rodriguez
 //Dibujos con "*"
 //Version 0.1
@@ -132,5 +128,9 @@ for (var i=0; i<4; i++){
     console.log(new_fila);
     fila = "";
 }
+
+
+
+
 
 
